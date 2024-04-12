@@ -1,6 +1,6 @@
 # Boot-Linux-ESP32-RiscV-Playground
 
-Playground ESP32 -H2 -C2-C3 -C5 -C6 -C61 -P4 -P42** -P54** 
+Playground ESP32 -H2/H4** -C2 -C3 -C5 -C6 -C61 -P4 -P42** -P54** 
 
 more to do:
 - move the [https://github.com/ESP32DE/RiscVLinux_HostSVR_P4_MARLIN](private) to the public 
