@@ -37,6 +37,8 @@ The QP4-01 supports integration with ESP32-P4 and ESP32-C6 modules, which are kn
   - **Architecture:** The ESP32-C6 is built on a single-core RISC-V architecture, providing a balance of performance and power efficiency.
   - **Wi-Fi 6 Support:** This module supports the latest Wi-Fi 6 standard, ensuring faster data rates and improved network efficiency.
   - **Enhanced Security:** Integrated security features help safeguard data and communication in IoT applications.
+  - ESP32-C6 is Espressif’s first Wi-Fi 6 SoC integrating 2.4 GHz Wi-Fi 6, Bluetooth 5 (LE) and the 802.15.4 protocol. ESP32-C6 achieves an industry-leading RF performance, with reliable security features and multiple memory resources for IoT products. It consists of a high-performance (HP) 32-bit RISC-V processor, which can be clocked up to 160 MHz, and a low-power (LP) 32-bit RISC-V processor, which can be clocked up to 20 MHz. It has a 320KB ROM, a 512KB SRAM, and works with external flash. It comes with 30 (QFN40) or 22 (QFN32) programmable GPIOs, with support for SPI, UART, I2C, I2S, RMT, TWAI, PWM, SDIO, Motor Control PWM. It also packs a 12-bit ADC and a temperature sensor.
+    
 
 ## Applications
 
