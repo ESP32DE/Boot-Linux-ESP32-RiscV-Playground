@@ -1,3 +1,5 @@
+( Beta ! Text still in progress! Facts can still change )
+
 # System on Module (SoM) Description: QP4-01
 
 The **QP4-01** is a compact and versatile System on Module (SoM) designed for embedded applications requiring robust performance and flexibility. This SoM integrates a powerful processor with an embedded Linux operating system, running on a current kernel version to ensure optimal performance and security.
