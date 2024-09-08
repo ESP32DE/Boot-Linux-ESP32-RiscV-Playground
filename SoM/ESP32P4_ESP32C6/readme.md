@@ -7,7 +7,7 @@ The **QP4-01** is a compact and versatile System on Module (SoM) designed for em
 
 
 ![grafik](https://github.com/user-attachments/assets/06fcd3c6-f0be-4cf6-bf62-87b0898a4002)
-
+( Picture in the preview from previous test SoM -Beta- New SoM with much more support soon to be released Q3/Q4 ) 
 
 
 
