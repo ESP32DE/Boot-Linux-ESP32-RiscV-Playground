@@ -29,8 +29,9 @@ The QP4-01 supports integration with ESP32-P4 and ESP32-C6 modules, which are kn
 
 - **ESP32-P4:**
   - **Architecture:** Based on a dual-core Xtensa® 32-bit LX6 microprocessor, the ESP32-P4 offers high performance for complex applications.
-  - **Connectivity:** Features integrated Wi-Fi and Bluetooth LE for versatile communication options.
+  - **Connectivity:** Features integrated Wi-Fi and Bluetooth LE for versatile communication options ( C6 SDIO, C5 follows )  .
   - **AI Capabilities:** Equipped with AI acceleration features, making it suitable for machine learning applications.
+  - The ESP32-P4 is powered by a dual-core RISC-V CPU featuring AI instruction extensions, an advanced memory subsystem, and integrated high-speed peripherals. It's tailored for high-performance applications demanding robust security. Positioned for the forthcoming era of embedded applications, the ESP32-P4 targets solid support for rich Human-Machine Interfaces, efficient edge computing, and increased IO-connectivity demands.
 
 - **ESP32-C6:**
   - **Architecture:** The ESP32-C6 is built on a single-core RISC-V architecture, providing a balance of performance and power efficiency.
